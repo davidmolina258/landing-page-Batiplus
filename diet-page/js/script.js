@@ -1,4 +1,6 @@
 /**/
+
+console.log("Funciona");
 ((d) => {
   const $btnHambuguer = d.querySelector(".menu-btn"),
     $menu = d.querySelector(".menu");
